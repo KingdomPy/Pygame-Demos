@@ -1,0 +1,2 @@
+[2, 0, 0, -1, [-1, -1], [], 0, {"equipped techniques":[], "equipped talents":["Spray"], "technique deck":["Spray"]}]
+difficulty, exp, money, ship type, emblems, items, current chapter, extra data

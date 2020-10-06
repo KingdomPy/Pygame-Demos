@@ -1,0 +1,13 @@
+"Missile":[[2,2,2,100],["Fire a large bullet that explodes on impact, damaging the inital enemy hit","and nearby enemies hit by the debris."]]
+"Repair":[[8,8,8,100],["Restore 50% of your hp on use."]]
+"Orbit":[[11,11,11,100],["Summon an attack that charges below nearby enemies that explodes","and damages them 0.8 seconds."]]
+"Curse":[[15,2,26,100],["Fire a bullet that slows the enemy down by 30% for 4 seconds."]]
+"Electrocute":[[-1,8,11,100],["Fire a bullet that inflictes the electrocuted status effect for 5 seconds","everytime they are hit they receieve extra damage."]]
+"Barrier":[[26,15,25,100],["Guard all attacks then knockback nearby enemies,","stunning them for 2 seconds."]]
+"Teleport":[[19,-1,19,100],["Instantly move 200 units in your direction."]]
+"Final Flash":[[-1,21,-1,100],["Become immune to damage and fire a massive continous beam that damages","enemies over 3 seconds."]]
+"Arcanum":[[3,-1,15,100],["Summon 8 bullets that orbit you for 10 seconds, the bullets","are consumed and damage enemies on impact."]]
+"Combo":[[5,-1,2,100],["Instantly activate your attack command twice without regards to its cooldown."]]
+"Snipe":[[-1,11,5,100],["Fire a long range powerful bullet that damages the first enemy hit."]]
+#Stores at what level each move is learnt
+#Vanguard, Engineer, Stealth

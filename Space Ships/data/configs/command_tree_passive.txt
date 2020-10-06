@@ -1,0 +1,6 @@
+"Burly Vampire":[[19,25,23,100],["Successfully guarding an attack restores 4% of your max hp."]]
+"Second Chance":[[25,25,23,100],["Upon reaching 0 hp your healing is disabled and you receive a 40% speed bonus.","If no damage is received within 4 seconds regain 50% of your hp."]]
+"Maintenance":[[-1,-1,-1,100],["Casting a healing ability or using a healing potion grants a","30/15% (30% max) defense boost for 4 seconds."]]
+"Reflect":[[-1,-1,25,100],["Reflect projectile attacks that are guarded."]]
+#Stores at what level each move is learnt
+#Vanguard, Engineer, Stealth

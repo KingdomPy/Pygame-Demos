@@ -1,0 +1,6 @@
+"Wooden Pipe": [5, 0, 0, 0, 0, "Your starting weapon, only good for brute force."]
+"Dense Conductor": [0, 8, 0, 0, 0, "A strong weapon that strengthens your abilities."]
+"Stealth Scope": [5, 5, 10, 0, 0, "A balanced weapon that increases critical rate."]
+"Lethal Battery": [8, 10, 0, 0, 5, "A powerful weapon imbued with a lightning effect."]
+"Barbed Bayonet": [12, 8, 0, 0, 0]
+#Atk, Power, Crit, Burn Chance, Electrocute Chance

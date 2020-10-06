@@ -1,0 +1,104 @@
+"mode": "dev"
+"attack_commands": ["Surge", "Shotgun", "Hyper"]
+"back_commands": ["Guard", "Dodge", "Super Dodge", "Light Dash"]
+"commands": [Missle, Orbit, Combo, Charge, "Barrier", Bullet Barrier, Enhance, Judgement, Electrocute, Teleport, Repair, Final Flash, 
+	Rapid Fire, Snipe, Shift]
+"passives": ["Second Chance","Burly Vampire","Maintenance"]
+
+[ADDED] Surge = Fire a bullet that deals 70% attack per 0.7 seconds.
+[ADDED] Shotgun = Fire 3 bullets that deal 30% attack per 1 seconds. 
+[ADDED] Hyper = Fire a bullets deals 25% attack per 0.3 seconds.
+
+[ADDED] Guard = Block all blockable attacks for 0.3 seconds, each hit received refreshes the duration by 0.1 seconds. 1 sec cd
+[ADDED] Dodge = Dash 120 units over 0.2 seconds and ignore all attacks. 0.4 sec cd
+[ADDED] Super Dodge = Dash 150 units over 0.2 seconds. 0.4 sec cd.
+[ADDED] Light Dash = Guard for 0.3 seconds then activate dodge. 1 sec cd
+
+Barrier = Guard then knock back nearby enemies stunning them for 2 seconds and dealing 70% power. 10 sec cd, 2 mana
+[ADDED] Missle = Fire a big bullet that deals 30% attack, 50% power to nearby enemies on hit. 3 sec cd, 2 mana
+[ADED] Orbit = Summon cannons that fire at all nearby enemies after a 0.8 second delay dealing 50% power, 6 sec cd, 2 mana
+[ADDED] Repair = Recover 50% hp, 15 sec cd, 10 mana
+[ADDED] Teleport = Teleport 200 units, 0.5 sec cd, 1 mana
+Electrocute = Fire a bullet that deals 40% atk and causes the electrocute status effect, 7 sec cd, 3 mana
+Final Flash = Become immune to all damage and fire a massive beam for 3 seconds dealing 240% power, 25 sec cd, 15 mana
+Curse = Fire a bullet that slows the enemies speed by 30% for 4 seconds. 20% atk, 30% power, 2 cd, 1 mana
+
+[ADDED] Combo = Fire 2 normal hits, 3 sec cd, 1 mana
+Charge = Dash towards the nearest enemy 5 times dealing 40% atk + 30% power to all enemies hit, enemies hit are knocked back,
+8 sec cd, 2 mana
+[ADDED] Arcanum = Summon 8 bullets that orbit you and explode on hit dealing 15% atk and 40% power, 10 sec cd, 2 mana
+Enhance = [fire command] Increase attack command damage by 35% for 6 seconds, Each hit 30% has a chance to inflict burn, 11 sec cd, 3 mana
+Judgement = Become stationary and fire 10 + attack/10 homing bulllets that target nearby enemies over 5 seconds, 30 sec cd, 15 mana
+
+Rapid Fire = [lightning command] Increase attack speed by 40% for 6 seconds, 11 sec cd, 3 mana
+Snipe = Fire a long range bullet that deals 180% attack, 5 sec cd, 2 mana
+Shift = Increase movement speed and attack speed by 15% for 5 seconds, 14 sec cd, 2 mana
+
+Second Chance = After receiving a hit that would kill you gain 40% movement speed for 4 seconds, if no his are received during this period
+regain 50% hp, healing is disabled during this period, 80 sec cd, all mana
+Burly Vampire = Successfully guarding an attack grants 4% of your max hp. 5 second cooldown.
+Maintenance = Casting a healing spell or using a healing potion grants a 30/15% (40% max) defense boost respectively for 4 seconds.
+Reflect = Reflect bullets that are successfully guarded which deal 0.4% power + 0.2% attack
+
+Statuses:
+Burn: Receive 5 +8%atk, +12%power per second for 5 seconds.
+Electrocute: For 3 seconds every hit deals +4%atk, +6% power to the target and nearby enemies.
+
+Item types are:
+Attack enhancers: [+5 atk, +10 power, +10 crit, +15 atk +10 power, +20 power, +10 atk +10 crit, +10 power +10 crit]
+Wooden Pipe = +5 atk
+Dense Conductor = +10 power
+Stealth Scope = +10 crit
+Lethal Battery = +20 power, +5% electrocute chance
+Barbed Bayonet = +15 atk, +10 power
+Precise Scope = +10 atk, +10 crit, +5% burn chance
+Heavy Conductor = +10 power, +10 crit
+
+Enhancer rings: Up to two rings slotted in an enhancer
++4% burn chance
++2% electrocute chance
++6% burn chance
++3% electrocute chance
++9% burn chance
++6% electrocute chance
+
+Command enhancers: Up to three equipped for 3 abilities and three for general bonuses
++10% damage
+-5% cd
++15% damage
+-10% cd
+
++10% mp haste
++15% mp haste
++4% max hp
++6% max hp
++8% max hp
++2% defence
++3% defence
++4% defence
+
+HP & MP Potions: Up to 6 per type in inventory
++30% HP
++60% HP
++100% HP
++50% MP
++100% MP
+
+Status resistors: Up to 3 equiped
+-5% water dmg
+-5% fire dmg
+-5% electircal dmg
+-10% water dmg
+-10% fire dmg
+-10% electircal dmg
+
+Back up info for commands
+
+Dodge
+Guard
+Light Dash
+Barrier
+Super Dodge
+
+"Format": "HealPercentage","AttackPercentage, PowerPercentage, ManaCost, CoolDown, Size, Speed, TypeOfCommand
+"Measurements": "0-1", "0-1", "0-infinty", "milliseconds", 1-infinity, 1-infinity

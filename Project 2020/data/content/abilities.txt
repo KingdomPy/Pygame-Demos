@@ -1,0 +1,20 @@
+#Format = type:(Passive/Basic/Active/Drive), name, required level:(vanguard,engineer,recon), function:(scalling,cooldown),, description
+#Passive abilities
+["P","Regeneration",[0,0,0],[0,0,0],["When your energy is depeleted it will slowly regenerate back to 100%. (Unable to use abilities while regenerating)"]]
+["P","Haste",[61,61,61],[0,0,0],["If Regeneration is equipped, boost its effect by 15%."]]
+["P","Haste +",[61,61,61],[0,0,0],["If Regeneration is equipped, boost its effect by 20%."]]
+["P","Haste ++",[61,61,61],[0,0,0],["If Regeneration is equipped, boost its effect by 30%."]]
+["P","Attack +",[61,61,61],[0.7,0,0],["Every","NC","4","th attack is 20% larger and deals 15% more damage."]]
+["P","Combo +",[61,61,61],[0.7,0,0],["Every","NC","4","th attack also shoots mini-missiles."]]
+["P","Overheat",[61,61,61],[0,0.5,0],["Successfully blocking an attack knocks back nearby enemies."]]
+["P","Rage",[61,61,61],[0,0,0],["After reaching 40% of your hp every further 2% missing grants a 1.5% damage and speed boost."]]
+["P","Life Drain",[61,61,61],[0,0,0],["Every enemy killed restores","EC","5%","of your max energy."]]
+["P","Technological Master",[61,61,61],[0,0,0],["Your attacks are replaced by","NC","2","drones that orbit you that and fire at the closest enemy."]]
+["B","Surge",[0,0,0.7],[0.7,0,0.2],["Your attacks fire a powerful bullet that deals ","AC","%atk"," normal damage."]]
+["B","Spray",[3,3,3],[0.3,0,1],["Your attacks fire","NC","3","pellets in a cone."]]
+["B","Hyper",[5,5,5],[0.25,0,0.3],["Your attacks rapid fire small bullets."]]
+["A","Missile",[2,2,2],[0.3,0.8,3],["Fire a large bullet that explodes on impact dealing ","AC","%atk","PC","%pwr"," normal damage and scatters into","NC","8","shards that deals normal damage to enemies hit."]]
+#Attack damage = [216,29,8] red AC
+#Power damage = [10,73,181] dark blue PC
+#Numbers = [226,163,15] orange/yellow NC
+#Energy = [11,142,186] light blue EC

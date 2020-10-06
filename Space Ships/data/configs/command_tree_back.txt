@@ -1,0 +1,6 @@
+"Guard":[[2,2,2,100],["Block all attacks for 0.3 seconds, each successful block","extends the duration by 0.1 seconds."]]
+"Dodge":[[8,8,8,100],["Dash 120 units in your direction while ignoring all damage."]]
+"Super Dodge":[[11,11,11,100],["Dash 150 units in your direction while ignoring all damage."]]
+"Light Dash":[[15,2,26,100],["Guard for 0.3 seconds then peform a dodge."]]
+#Stores at what level each move is learnt
+#Vanguard, Engineer, Stealth

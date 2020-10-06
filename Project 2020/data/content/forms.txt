@@ -1,0 +1,3 @@
+Enhanced: attack and max hp increased, finisher = immune to damage and deal explosions nearby damaging enemies for 3 seconds
+Shift: power, energy and energy regeneration increased, finisher = knockback all nearby enemies does no damage and recover 50% hp and energy
+Techno: attack, power and energy regenration increased, finisher = dash 5 times in an area damaging all enemies hit

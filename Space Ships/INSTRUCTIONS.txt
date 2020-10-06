@@ -1,0 +1,12 @@
+w - forward
+a - left
+d - right
+
+j - back command
+k - commmand
+l - exit
+
+q - previous command
+e - next command
+
+there is controller support you will have to figure the rest out

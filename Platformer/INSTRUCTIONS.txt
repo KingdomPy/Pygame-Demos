@@ -1,0 +1,20 @@
+Use alt + tab to exit the game if in full screen
+
+GAME:
+wasd to move player 1
+arrow keys for player 2
+space for splitscreen
+
+escape switches between the game and map maker
+
+MAP MAKER:
+left click to place
+right click to destroy
+1 - 4 for the tiles
+green - spawn
+yellow - end
+i = zoom in
+o = zoom out
+
+arrows are for exporting and importing
+

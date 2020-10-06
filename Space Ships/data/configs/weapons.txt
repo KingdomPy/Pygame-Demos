@@ -1,0 +1,26 @@
+#Common Items
+"Wooden Pipe": [5, 0, 0, 0, 0]        
+"Dense Conductor": [0, 8, 0, 0, 0]   
+"Stealth Scope": [5, 5, 10, 0, 0]  
+
+#Uncommon Items
+"Lethal Battery": [8, 10, 0, 0, 5]
+"Barbed Bayonet": [12, 8, 0, 0, 0]              
+"Precise Scope": [10, 6, 10, 10, 0]   
+"Heavy Conductor":[4, 13, 10, 0, 5]  
+
+#Rare Items
+"Lithuim Bomb": [15, 10, 5, 0, 0]    
+"Holy Conductor": [8, 18, 5, 0, 10]  
+"Clockwork": [11, 11, 11, 11, 11]     
+
+#Legendary Items
+"StarGazer": [25,10,10,0,5] 
+"Galaxy": [10,40,15,0,0] 
+"Black Hole": [10,20,30,10,10] 
+
+#Special Items
+"Olympus": [20,15,15,0,0,0] 
+"No name": [20,35,20,10,10] 
+
+#Attack, Power, Crit, Burn Chance, Electrocute Chance
