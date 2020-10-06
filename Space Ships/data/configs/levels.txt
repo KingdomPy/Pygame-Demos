@@ -1,3 +1,0 @@
-Algorithm
-Current exp needed to reach level = (level+1)^2*70 + 300 for level > 0
-Monster exp drop = level*20 + 30

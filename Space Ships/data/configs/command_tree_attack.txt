@@ -1,5 +1,0 @@
-"Surge":[[0,0,0,0],["Fire a fast bullet that deals damage upon contact","with an enemy."]]
-"Hyper":[[5,5,5,100],["Rapid fire small fast bullets that deals damage upon contact","with an enemy."]]
-"Shotgun":[[3,3,3,100],["Fire 3 bullets in a cone which each deal damage upon contact","with an enemy."]]
-#Stores at what level each move is learnt
-#Vanguard, Engineer, Stealth
